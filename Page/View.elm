@@ -2,7 +2,7 @@ module Page.View exposing (..)
 
 import Html exposing (Html, div, text, button)
 import Html.Events exposing (onClick)
-import Model exposing (Model)
+import Main.Model exposing (Model)
 
 import Page.Msg as Page
 import Shared.Msg as Shared

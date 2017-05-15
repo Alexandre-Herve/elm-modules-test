@@ -1,7 +1,7 @@
-module Update exposing (update)
+module Main.Update exposing (update)
 
-import Model exposing (Model)
-import Msg exposing (..)
+import Main.Model exposing (Model)
+import Main.Msg exposing (..)
 
 import Shared.Update as Shared
 import Shared.Msg as Shared

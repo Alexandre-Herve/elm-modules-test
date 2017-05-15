@@ -1,4 +1,4 @@
-module Msg exposing (..)
+module Main.Msg exposing (..)
 
 import Shared.Msg as Shared
 import Page.Msg as Page

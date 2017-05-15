@@ -1,4 +1,4 @@
-module Model exposing (..)
+module Main.Model exposing (..)
 
 type alias Model =
   {}

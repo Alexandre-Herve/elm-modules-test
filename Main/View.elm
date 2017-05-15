@@ -1,9 +1,9 @@
-module View exposing (view)
+module Main.View exposing (view)
 
 import Html exposing (Html, div, text, button)
 import Html.Events exposing (onClick)
-import Model exposing (Model)
-import Msg exposing (..)
+import Main.Model exposing (Model)
+import Main.Msg exposing (..)
 import Page.View as Page
 import Shared.Msg as Shared
 

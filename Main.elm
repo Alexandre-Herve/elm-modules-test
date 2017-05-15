@@ -2,11 +2,11 @@ module Main exposing (main)
 
 import Html exposing (Html)
 
-import Model exposing (Model, initialModel)
-import Msg exposing (..)
-import Subscription exposing (subscriptions)
-import Update exposing (update)
-import View exposing (view)
+import Main.Model exposing (Model, initialModel)
+import Main.Msg exposing (..)
+import Main.Subscription exposing (subscriptions)
+import Main.Update exposing (update)
+import Main.View exposing (view)
 
 -- Main
 
